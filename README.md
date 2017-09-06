@@ -5,7 +5,7 @@
 毕业学校:陕西科技大学      学历：本科         时间：2012-2016
 身高:178cm              体重：75kg
 ```
-(http://img.blog.csdn.net/20170905221009021?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMTA4NTczNA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![image](http://img.blog.csdn.net/20170905221009021?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMTA4NTczNA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 # 掌握技能
 # 项目经验
 # 工作经历
